@@ -1,0 +1,10 @@
+# Lista original de autos
+autos = ["sedan", "polo", "suran", "gol"]
+
+print("Lista original:", autos)
+
+# Reemplazar los valores centrales (índices 1 y 2)
+autos[1] = "audi"
+autos[2] = "bmw"
+
+print("Lista modificada:", autos)
