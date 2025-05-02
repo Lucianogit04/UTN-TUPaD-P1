@@ -1,0 +1,16 @@
+# Lista inicial de compras
+compras = [["pan", "leche"], ["arroz", "fideos", "salsa"], ["agua"]]
+
+#Agregar "jugo" a la lista del tercer cliente
+compras[2].append("jugo")
+
+#Reemplazar "fideos" por "tallarines" en la lista del segundo cliente
+compras[1][1] = "tallarines"
+
+#Eliminar "pan" de la lista del primer cliente
+compras[0].remove("pan")
+
+
+print("Lista de compras actualizada:")
+for i, cliente in enumerate(compras, 1):
+    print(f"Cliente {i}: {cliente}")
