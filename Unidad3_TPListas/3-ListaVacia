@@ -1,0 +1,8 @@
+# Crear una lista vacía
+mi_lista = []
+
+mi_lista.append("Hola")
+mi_lista.append("Mundo")
+mi_lista.append("Python")
+
+print("La lista después de agregar las palabras es:", mi_lista)
