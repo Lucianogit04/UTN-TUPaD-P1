@@ -1,0 +1,8 @@
+
+animales = ["perro", "gato", "conejo", "pez"]
+
+animales[1] = "loro"
+
+animales[-1] = "oso"
+
+print("La lista de animales después de los cambios es:", animales)
