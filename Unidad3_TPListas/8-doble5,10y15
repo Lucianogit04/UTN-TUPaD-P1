@@ -1,0 +1,8 @@
+dobles = []
+
+# Agregar el doble de 5, 10 y 15 usando append
+dobles.append(5 * 2)
+dobles.append(10 * 2)
+dobles.append(15 * 2)
+
+print("La lista de dobles es:", dobles)
