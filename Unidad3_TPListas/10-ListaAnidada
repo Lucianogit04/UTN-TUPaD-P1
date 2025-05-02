@@ -1,0 +1,9 @@
+# Crear la lista anidada con los elementos especificados
+lista_anidada = [
+    15,              # lista_anidada[0]
+    True,            # lista_anidada[1]
+    [25.5, 57.9, 30.6],  # lista_anidada[2]
+    False            # lista_anidada[3]
+]
+
+print("La lista anidada es:", lista_anidada)
