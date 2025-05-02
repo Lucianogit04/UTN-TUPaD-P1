@@ -1,0 +1,7 @@
+5) Analizar el siguiente programa y explicar con tus palabras qué es lo que realiza.
+
+numeros = [8, 15, 3, 22, 7]
+numeros.remove(max(numeros))
+print(numeros)
+
+primero se crea la variable con 5 elementos despues se le pedira que se remueva el numero maximo y por ultimo imprimir el resultado sacando el numero 22 que es el numero maximo.
