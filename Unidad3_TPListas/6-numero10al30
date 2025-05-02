@@ -1,0 +1,5 @@
+# Crear una lista con números del 10 al 30 con saltos de 5
+numeros = list(range(10, 31, 5))
+
+# Mostrar los dos primeros elementos
+print("Los dos primeros elementos de la lista son:", numeros[:2])
