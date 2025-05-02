@@ -1,0 +1,14 @@
+def obtener_multiplos_cuatro():
+    # Crea una lista con los múltiplos de 4 del 1 al 100
+    # Utilizando range y una comprensión de lista
+    multiplos = [num for num in range(1, 101) if num % 4 == 0]
+    return multiplos
+
+def main():
+    # Obtener y mostrar los múltiplos de 4
+    lista_multiplos = obtener_multiplos_cuatro()
+    print("Los múltiplos de 4 del 1 al 100 son:")
+    print(lista_multiplos)
+
+if __name__ == "__main__":
+    main()
