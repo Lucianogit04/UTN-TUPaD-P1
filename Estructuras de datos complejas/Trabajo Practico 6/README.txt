@@ -1,3 +1,6 @@
+CONTRERAS LUCIANO DEMIAN
+UTN TECNICATURA DE PROGRAMACIÓN
+
 Objetivo:
 
 Dominar el uso de estructuras de datos complejas en Python para
