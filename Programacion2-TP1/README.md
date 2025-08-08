@@ -9,15 +9,25 @@ Trabajo Práctico 1: Introducción a Java
 
 El trabajo consiste en resolver una serie de ejercicios introductorios en Java que
 permitan:
+
 ● Configurar correctamente el entorno de desarrollo (Java JDK y NetBeans).
+
 ● Crear programas básicos que imprimen mensajes en consola.
+
 ● Declarar variables de distintos tipos y manipular sus valores.
+
 ● Leer datos ingresados por el usuario usando Scanner.
+
 ● Realizar operaciones aritméticas básicas.
+
 ● Aplicar caracteres de escape para dar formato a la salida.
+
 ● Analizar diferencias entre expresiones e instrucciones.
+
 ● Detectar y corregir errores simples en el código.
+
 ● Comprender el comportamiento del lenguaje mediante pruebas de escritorio.
+
 1. Verificar que tienes instalado Java JDK y NetBeans
 a. Confirma que tienes Java JDK instalado ejecutando el siguiente
 comando en la terminal: java –version
