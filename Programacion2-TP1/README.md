@@ -5,34 +5,8 @@ CONTRERAS LUCIANO
 
 PROGRAMACIÓN II
 Trabajo Práctico 1: Introducción a Java
-OBJETIVO GENERAL
-Aplicar los conocimientos adquiridos sobre la instalación y configuración del entorno
-de desarrollo, manipulación de datos, operadores matemáticos y depuración de código
-en Java, mediante ejercicios prácticos introductorios.
-MARCO TEÓRICO
-Concepto Aplicación en el proyecto
-Instalación y entorno Almacenan el conjunto de países
-Variables y tipos de datos Representan los datos de cada país
-(nombre, población, superficie, etc.)
-Entrada y salida Separan las operaciones: carga,
-búsqueda, estadísticas, ordenamientos
-Operadores aritméticos Aplican filtros y validaciones según
-criterios
-Caracteres especiales Permite ordenar países por población,
-nombre, superficie, etc.
-Expresiones e instrucciones Permiten obtener indicadores clave del
-dataset
-Tipos de datos y conversiones Lectura del dataset desde un archivo
-CSV
-Debugging y errores comunes Identificación y corrección de errores de
-compilación.
-Pruebas de escritorio Análisis paso a paso de ejecución de
-código.
-1
-TECNICATURA UNIVERSITARIA
-EN PROGRAMACIÓN
-A DISTANCIA
-CASO PRÁCTICO
+
+
 El trabajo consiste en resolver una serie de ejercicios introductorios en Java que
 permitan:
 ● Configurar correctamente el entorno de desarrollo (Java JDK y NetBeans).
