@@ -1,3 +1,7 @@
+CONTRERAS LUCIANO DEMIAN
+UTN PROGRAMACION A DISTANCIA COMISION 2.
+
+
 Modelar una clase Empleado que represente a un trabajador en una empresa.
 Esta clase debe incluir constructores sobrecargados, métodos sobrecargados y el uso
 de atributos aplicando encapsulamiento y métodos estáticos para llevar control de los
